@@ -1,7 +1,7 @@
 <template>
   <div>
     <bread-crumb></bread-crumb>
-    home-home-sum
+    home-home-sum-test
   </div>
 </template>
 
