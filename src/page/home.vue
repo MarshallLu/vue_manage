@@ -2,6 +2,8 @@
   <div>
     <bread-crumb></bread-crumb>
     home-home-sum-test
+    home-home-sum
+    <span>tom</span>
   </div>
 </template>
 
