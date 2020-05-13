@@ -1,7 +1,7 @@
 <template>
   <div>
     <bread-crumb></bread-crumb>
-    home-home
+    home-home-sum
   </div>
 </template>
 
